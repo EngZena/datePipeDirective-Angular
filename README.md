@@ -1,5 +1,5 @@
-# datePipeDirective
-format date using dd/mm/yyyy format.
+# datePipeDirective Angukar
+pipe in an angular project to format the date in the "dd/mm/yyyy" format.
 
 
 ## how to use
